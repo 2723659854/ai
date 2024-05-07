@@ -1,0 +1,6 @@
+筆記
+文档地址：https://php-ml.readthedocs.io/en/latest/
+这里面的所有的算法都是把样本根据特征进行分类。
+
+人以群分物以类聚
+
